@@ -1,0 +1,9 @@
+package com.in28minutes.rest.webservices.restfulwebservices.basic.auth;
+
+public class Snippet {
+	public static void main(String[] args) {
+		/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/copy/HelloWorldBean.java
+		/restful-web-services/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/copy/HelloWorldController.java
+	}
+}
+

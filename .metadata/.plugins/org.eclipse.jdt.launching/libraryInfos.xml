@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home" version="11.0.4"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home" version="10.0.2"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home" version="11.0.6"/>
+    <libraryInfo home="/Library/Java/JavaVirtualMachines/jdk-13.jdk/Contents/Home" version="13"/>
+</libraryInfos>
